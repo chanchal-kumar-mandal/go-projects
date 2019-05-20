@@ -26,6 +26,9 @@
     1. Go to path /C/Users/[chanchal]/Go/src/geometry in git bash
     2. Run Command: $ go install geometry
     3. Run Command: $ go run geometry.go
+    
+* Source:
+    https://golangbot.com/packages/
 
 
                      
