@@ -11,16 +11,16 @@ So lets create a folder named rectangle inside the geometry folder. All files in
 Create a file rectprops.go inside the rectangle folder we just created and add the following code.
 
 * Folder Structure:
-src  
-    geometry
+    src  
+        geometry
             geometry.go
             rectangle
-                     rectprops.go
+                rectprops.go
                      
 * How To Run?
-1. Go to path /C/Users/chanchal/Go/src/geometry
-2. Run Command: go install geometry
-3. Run Command: go run geometry.go
+    1. Go to path /C/Users/chanchal/Go/src/geometry
+    2. Run Command: go install geometry
+    3. Run Command: go run geometry.go
 
 
                      
