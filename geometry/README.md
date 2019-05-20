@@ -12,9 +12,13 @@
 
 * Folder Structure:
     src  
+        
         geometry
+            
             geometry.go
+            
             rectangle
+                
                 rectprops.go
                      
 * How To Run?
