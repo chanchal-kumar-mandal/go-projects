@@ -1,15 +1,12 @@
-# Welcome to Revel
+# Welcome to my first Revel Web Application
 
-A high-productivity web framework for the [Go language](http://www.golang.org/).
-
-
-### Start the web server:
-
-   revel run revel-framework
+## Project Details
+1. Render view using controller and added required URI in routes
+2. Simple form submission and input validation
 
 ### Go to http://localhost:9000/ and you'll see:
 
-    "It works"
+    "My First Revel Application"
 
 ## Code Layout
 
