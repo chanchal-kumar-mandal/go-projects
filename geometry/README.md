@@ -10,9 +10,9 @@
 
     Create a file rectprops.go inside the rectangle folder we just created and add the following code.
 
-* Folder Structure:
+* Folder Structure:    
     
-    src  
+    src
         
         geometry
             
