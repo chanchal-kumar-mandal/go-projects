@@ -14,7 +14,7 @@
     
     src
         
-        geometry
+        custome-package
             
             geometry.go
             
@@ -23,8 +23,8 @@
                 rectprops.go
                      
 * How To Run?
-    1. Go to path /C/Users/[chanchal]/Go/src/geometry in git bash
-    2. Run Command: $ go install geometry
+    1. Go to path /C/Users/[chanchal]/Go/src/custome-package in git bash
+    2. Run Command: $ go install custome-package
     3. Run Command: $ go run geometry.go
     
 * Source:
