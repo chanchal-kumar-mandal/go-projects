@@ -9,6 +9,6 @@
   * Project: *revelApp* - One small web application project using Revel framework
   * I will add more biger/complex projects in upcoming days.
   
-## Upcomming
+## Upcoming
 
  * I will add more biger/complex projects in upcoming days.
