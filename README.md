@@ -1,5 +1,18 @@
 # Golang Projects
 
+## Requirement
+
+ * Install Go
+ * Make proper workspace for Go
+    
+     Go/
+       bin/
+       pkg/
+       src/
+ * Download any project and place it in **src** folder
+ * Install package(s) if required
+ * Create database if required(I have uploaded database(Mysql) file with in project folder)
+
 ## Details
 
   * Added some small projects. Each folder contains one individual project. README.md of that folder describes details of that project.
