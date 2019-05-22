@@ -7,11 +7,11 @@
     
      Go/
      
-       bin/
+       bin/  folder for command
        
-       pkg/
+       pkg/  folder for packages
        
-       src/
+       src/  folder for code
  * Download any project and place it in **src** folder
  * Install package(s) if required
  * Create database if required(I have uploaded database(Mysql) file with in project folder)
