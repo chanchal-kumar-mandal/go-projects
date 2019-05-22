@@ -1,5 +1,9 @@
 # Work With MySQL 
 
+## Requirement
+  
+  * Create *o_mysql_connection_database* database 
+
 ## Details
 
    * Connection with database
