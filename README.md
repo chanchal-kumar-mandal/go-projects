@@ -6,6 +6,7 @@
  * Make proper workspace for Go
     
      Go/
+     
        bin/
        
        pkg/
