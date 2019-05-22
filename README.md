@@ -6,8 +6,11 @@
  * Make proper workspace for Go
     
      Go/
+     
        bin/
+       
        pkg/
+       
        src/
  * Download any project and place it in **src** folder
  * Install package(s) if required
