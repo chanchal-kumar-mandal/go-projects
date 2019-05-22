@@ -2,7 +2,7 @@
 
 ## Requirement
   
-  * Create *o_mysql_connection_database* database 
+  * Create *go_mysql_connection_database* database 
 
 ## Details
 
