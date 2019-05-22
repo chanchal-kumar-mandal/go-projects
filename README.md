@@ -13,4 +13,3 @@
 
  * I will add more biger/complex projects in upcoming days.
 
-https://cdn-images-1.medium.com/max/1600/1*PxEdB3KWXXHmh1FlXMk_mg.png
